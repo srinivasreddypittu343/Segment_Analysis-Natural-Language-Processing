@@ -1,3 +1,4 @@
+# Srinivas Reddy Pittu (700777009)
 # Segment_Analysis-Natural-Language-Processing
 This contains NLP assignment solutions featuring text preprocessing, lemmatization, POS tagging, Named Entity Recognition, and pronoun ambiguity detection using Python and spaCy, along with written explanations of key NLP and clustering concepts.
 # 🚀 NLP Coding Tasks – Part C
