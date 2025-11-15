@@ -13,9 +13,6 @@ Implements:
 
 📌 *Goal:* Build a compact, meaningful representation of text by retaining only the most informative linguistic units.
 
-📁 Notebook:  
-**`Q1_tokenization_lemmatization.ipynb`**
-
 ---
 
 ### 🔹 **Q2 – Named Entity Recognition + Pronoun Ambiguity Check**
@@ -25,9 +22,6 @@ Implements:
 - Alert for potential **pronoun ambiguity**  
 
 📌 *Goal:* Identify entities in text and warn when ambiguous references may lead to misinterpretation.
-
-📁 Notebook:  
-**`Q2_NER_pronoun_ambiguity.ipynb`**
 
 ---
 
